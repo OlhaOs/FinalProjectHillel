@@ -1,6 +1,6 @@
-@import url("../../CSS/global.css");
-@import url("../../CSS/header-white.css");
-@import url("../../CSS/footer.css");
+@import url('../../CSS/global.css');
+@import url('../../CSS/header-white.css');
+@import url('../../CSS/footer.css');
 
 .nameSection {
   white-space: nowrap;
@@ -78,7 +78,7 @@ h3.textAchievment {
   bottom: -55px;
 }
 .bgPhoto {
-  background: url("../../Images/Team.jpg") no-repeat center/cover;
+  background: url('../../Images/Team.jpg') no-repeat center/cover;
   max-width: 100%;
   height: 17.2vh;
   display: flex;

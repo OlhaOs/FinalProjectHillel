@@ -1,6 +1,6 @@
-@import url("../../CSS/global.css");
-@import url("../../CSS/header-white.css");
-@import url("../../CSS/footer.css");
+@import url('../../CSS/global.css');
+@import url('../../CSS/header-white.css');
+@import url('../../CSS/footer.css');
 
 .bgPublication {
   background-color: #f5f5fa;
@@ -114,7 +114,7 @@
 }
 .slider:before {
   position: absolute;
-  content: "";
+  content: '';
   padding: 9px 30px;
   width: 105px;
   height: 38px;
@@ -139,7 +139,7 @@ input:checked + .slider:before {
 }
 .slider:after {
   position: absolute;
-  content: "news";
+  content: 'news';
   padding: 9px 30px;
   width: 105px;
   height: 38px;
