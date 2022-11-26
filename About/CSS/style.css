@@ -78,7 +78,7 @@ h3.textAchievment {
   bottom: -55px;
 }
 .bgPhoto {
-  background: url('../../Images/Team.jpg') no-repeat center/cover;
+  background: url('../../images/Team.jpg') no-repeat center/cover;
   max-width: 100%;
   height: 17.2vh;
   display: flex;
