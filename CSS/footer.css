@@ -50,6 +50,9 @@
     align-items: center;
     padding-left: 125px;
   }
+  .adress {
+    margin-bottom: 0;
+  }
 }
 @media (min-width: 1024px) {
   .footerAdress,
