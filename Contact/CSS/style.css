@@ -1,6 +1,6 @@
-@import url("../../CSS/global.css");
-@import url("../../CSS/header-white.css");
-@import url("../../CSS/footer.css");
+@import url('../../CSS/global.css');
+@import url('../../CSS/header-white.css');
+@import url('../../CSS/footer.css');
 
 h1.redGradient {
   font-size: 30px;
@@ -74,7 +74,7 @@ h1.redGradient {
 }
 
 ::placeholder {
-  font-family: "Montserrat", serif;
+  font-family: 'Montserrat', serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
